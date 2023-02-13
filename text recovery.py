@@ -1,11 +1,3 @@
-'''Your task will be to transform a set of 5 sites, on the subject of data processing
-natural language into a set of five distinct lists of sentences. That is, you will do a function
-which, using the Beautifull Soap library, requests a url, and extracts all the sentences from it
-url. Two conditions are important:
-a) The web page (url) must point to a web page in English containing no less than
-1000 words.
-b) The text on this page should be transformed into an array of sentences.'''
-
 import requests
 from bs4 import BeautifulSoup
 
