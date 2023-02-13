@@ -1,2 +1,2 @@
 # Text-Recovery
-Simple web scraping algorithm that recovers the Text of a Web page.
+Simple web scraping algorithm that recovers the Text of a Web page , made in Python.
